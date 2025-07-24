@@ -20,7 +20,6 @@ author: Andy Chen
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -53,7 +52,7 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: daattali
+  github: AndyC2513
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
@@ -102,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "andy-chen.net"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
