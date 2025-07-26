@@ -9,8 +9,6 @@ tags: [summary]
 author: Andy Chen
 ---
 
-## My Project
-
 When I first decided to apply for Google Summer of Code with Google DeepMind, I had to be honest with myself - I did not know much about AI. The field seemed vast and intimidating, filled with complex mathematical concepts and terminology that felt foreign to me.
 
 ### Learning Journey
