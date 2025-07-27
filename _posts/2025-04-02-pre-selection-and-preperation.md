@@ -34,6 +34,6 @@ Additionally, I developed and deployed a simple translation Spaces app using Pyt
 - Gain practical experience with Google's Gemma models
 - Learn about model deployment and inference
 - Understand the challenges of building user-facing AI applications
-- Work with Python in an AI/ML context using HuggingFace transformers library
+- Work with Python in an AI/ML context using HuggingFace transformers library on Spaces
 
-This preparation phase taught me that while the initial learning curve was steep, consistent effort and practical application made the difference in building confidence and competence in the field.
+This preparation phase taught me that while the initial learning curve was steep, there are many resources out there if you look for it.
